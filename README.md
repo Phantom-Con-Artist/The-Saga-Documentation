@@ -58,6 +58,9 @@ the repository's `assets/` directory.
 - Compliance Matrix
 - Examples: Valid & Invalid Interpretations
 - Policy Q&A
+- The Saga Umbrella
+- Saga Attribution Policy
+- The Principle
 - Legal Notice
 
 ---
@@ -530,7 +533,7 @@ Product: Example Graph Studio
 Wyrd Engine™: 2.x ("Krono", Beta)
 Saga Architecture: KRONO Architecture
 Product License: MIT
-Attribution: Powered By WYRD ENGINE™ (required — Formally Organized Project)
+Attribution: Powered By WYRD ENGINE™ (required — product is monetized)
 ```
 
 ---
@@ -675,6 +678,138 @@ choose, subject to AGPL-3.0 obligations on the parts that incorporate the engine
 **What is the purpose of the three-tier system?**
 To promote open-source software and to serve as a launch pad for indie developers —
 nothing more, nothing less.
+
+---
+
+## The Saga Umbrella
+
+**The Saga** is an umbrella initiative for the development of its architecture,
+engines, applications, tools, integrations, and other software projects that are
+**formally developed as part of or under The Saga**.
+
+### Joining The Saga Is a Privilege, Not a Default
+
+Being recognized as part of The Saga is not something that happens automatically by
+using Saga technologies, and it is not something anyone is entitled to. It is a
+**privilege extended by Subhradeep Sarkar and The Saga**, granted deliberately to
+projects and contributors that are formally brought into the umbrella — not a status
+that any project can claim for itself by proximity, inspiration, or mere technical
+dependency. Formal recognition matters precisely because it is not handed out freely:
+it signals a real, acknowledged relationship with The Saga, not just the use of its
+technology.
+
+### What Comes Under The Saga
+
+Software may be recognized as part of The Saga when it is **formally developed,
+maintained, or released under The Saga umbrella** — never merely by using Saga
+technologies. The Saga may include:
+
+- **The Saga Architecture** — Architectural specifications, standards, models,
+  formats, and related documentation.
+- **Wyrd Engine™** — The reference implementation of the Saga Architecture.
+- **Myriad Ecosystem** — Applications, tools, integrations, services, and products
+  built within the ecosystem.
+- **Saga Projects** — Software projects formally developed under The Saga umbrella.
+- **Saga Contributors' Projects** — Independent software created by contributors that
+  chooses to participate in the Saga ecosystem.
+
+**Simply using the Saga Architecture or Wyrd Engine™ does not automatically make a
+project an official Saga project.** Independent developers and organizations may
+freely build software using Saga technologies while remaining entirely independent
+from The Saga — and the overwhelming majority of software built on Saga technologies
+will, correctly, remain independent rather than formally part of the umbrella.
+Independence is the default. Formal inclusion under The Saga umbrella is the
+exception, granted deliberately, not the automatic outcome of technical use.
+
+---
+
+## Saga Attribution Policy
+
+The Saga encourages contributors and projects within its ecosystem to extend the same
+open and developer-friendly attribution philosophy to their own software — this is a
+**benefit made available to those who have earned a place in the ecosystem**, not a
+policy anyone can invoke by default.
+
+### Eligibility
+
+Eligibility to adopt the Saga Attribution Policy is itself part of the privilege of
+participation. Only the following may voluntarily adopt it, for their own software or
+products:
+
+- A developer, team, or organization that **has contributed meaningfully to The
+  Saga**; or
+- A developer, team, or organization with a software project, product, application,
+  tool, or service **formally developed under The Saga umbrella**.
+
+A project that has not contributed meaningfully to The Saga and has not been formally
+developed under the Saga umbrella is not eligible to adopt this policy, regardless of
+how extensively it uses Saga technologies. Meeting one of the two eligibility
+conditions above is a genuine bar, not a formality.
+
+### Voluntary Adoption
+
+Adoption of the policy, for those who are eligible, is **entirely optional**.
+
+A qualifying developer or project may choose to apply the same attribution principles
+to its own software, including software that is commercially distributed. No
+developer, contributor, or Saga project is required to adopt this policy for their own
+independent work.
+
+> **The policy is offered as a benefit of participation, not an obligation of
+> participation — and participation itself is a privilege, not a right.**
+
+### Independent Ownership
+
+Adopting the Saga Attribution Policy does not transfer ownership of a developer's
+software to The Saga. Each developer or project remains fully and solely responsible
+for its own:
+
+- Copyright
+- Software license
+- Trademarks
+- Branding
+- Commercial terms
+- Distribution terms
+- Attribution requirements
+
+The Saga Attribution Policy applies only where an eligible developer or project
+explicitly chooses to adopt it, and only for as long as they continue to do so.
+
+### No Official Endorsement
+
+Use of the Saga Attribution Policy does not automatically mean that a product is
+officially endorsed, certified, sponsored, or commercially affiliated with The Saga.
+Projects must not represent voluntary attribution — or eligibility to adopt this
+policy — as evidence of official endorsement, formal Saga status, or any commercial
+affiliation, unless such status has been explicitly granted by Subhradeep Sarkar or
+The Saga. Eligibility to adopt the policy is not itself a grant of official status,
+and it may be reviewed, and revoked, if the underlying contribution or formal
+relationship that justified it no longer holds.
+
+---
+
+## The Principle
+
+The Saga is intended to function as a **launch pad for developers**.
+
+Contributors should be able to build their own software, create their own products,
+establish their own brands, and develop their own businesses while benefiting from the
+ecosystem they helped build. Being welcomed into that ecosystem — formally, as part of
+The Saga — is a privilege earned through genuine contribution or formal development
+under the umbrella, and The Saga takes that privilege seriously precisely because it
+extends real trust and real recognition, not a label anyone can self-assign.
+
+The Saga therefore aims to encourage attribution and recognition without turning
+participation into unnecessary obligations, while keeping the meaning of
+**"part of The Saga"** intact for those who have genuinely earned it.
+
+**Build with The Saga.**
+**Build under The Saga.**
+**Build beyond The Saga.**
+
+The goal is not to restrict what developers can create. The goal is to give them a
+foundation from which they can create more — and, for those who contribute back or
+join formally, a name worth being trusted alongside.
 
 ---
 
