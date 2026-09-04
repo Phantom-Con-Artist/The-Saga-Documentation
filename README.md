@@ -43,16 +43,17 @@ the repository's `assets/` directory.
 
 ## Table of Contents
 
+- Branding Asset Map
 - What is The Saga?
 - Why The Saga Exists (Philosophy Summary)
+- The Purpose of the Three-Tier Design
 - The Three-Tier Architecture
 - Tier I — The Saga Architecture
 - Tier II — Wyrd Engine™
 - Tier III — The Myriad Ecosystem
 - Licensing Model
-- Branding Policy (New)
+- Branding Policy
 - Powered By WYRD ENGINE™ Policy
-- When the Attribution Policy Applies — and When It Does Not
 - Versioning & Codenames (Krono)
 - What Each Tier Allows / Does Not Allow
 - Compliance Matrix
@@ -305,7 +306,7 @@ that happens to share that architecture.
 
 ---
 
-## Branding Policy (New)
+## Branding Policy
 
 The Saga separates **software licensing** from **brand permission**. Each tier has a
 distinct branding posture:
@@ -434,6 +435,14 @@ mandatory/voluntary distinction on any of the following:
 - Funding amount
 - Commercial success
 
+**A personal, single-member business entity does not change the category, either.** A
+solo developer who forms a sole proprietorship, single-member LLC, or similar personal
+legal/tax entity — with no co-founders, employees, publisher, or outside funding beyond
+that one individual — remains an **Independent Developer** under this policy. This
+distinction is about whether a *separate organization or team* stands behind the
+project, not about which legal or tax structure an individual chooses to operate
+under.
+
 ### Simple Rule
 
 > **Individual / informal indie team → Attribution encouraged, not mandatory.**
@@ -454,13 +463,13 @@ entities.
 ### No Implication of Official Status
 
 Regardless of category, **any project displaying the attribution — mandatory or
-voluntary — must not imply that it is an official Wyrd Engine™ or Saga Project
-product, nor that it is endorsed, certified, or reviewed by The Saga Project.** The
+voluntary — must not imply that it is an official Wyrd Engine™ product or an official
+part of The Saga, nor that it is endorsed, certified, or reviewed by The Saga.** The
 attribution identifies a dependency, not a partnership. Phrasing such as "an official
-Wyrd Engine™ title," "certified by The Saga Project," or similar implications of
-formal endorsement is not permitted for any project regardless of size or category,
-unless official status has been separately and explicitly granted by Subhradeep
-Sarkar or the project.
+Wyrd Engine™ title," "certified by The Saga," or similar implications of formal
+endorsement is not permitted for any project regardless of size or category, unless
+official status has been separately and explicitly granted by Subhradeep Sarkar or
+The Saga.
 
 ### No Substitute Wording (Where Attribution Is Used)
 
@@ -533,7 +542,7 @@ Product: Example Graph Studio
 Wyrd Engine™: 2.x ("Krono", Beta)
 Saga Architecture: KRONO Architecture
 Product License: MIT
-Attribution: Powered By WYRD ENGINE™ (required — product is monetized)
+Attribution: Powered By WYRD ENGINE™ (mandatory — developed by a registered studio)
 ```
 
 ---
@@ -572,7 +581,7 @@ component licenses and the attribution policy above.
 ### Tier III — Not Allowed
 Claiming all Myriad products share one license; claiming the ecosystem designation
 alone means official status; using the attribution to imply endorsement or official
-Wyrd Engine™ / Saga Project status; a Formally Organized Project omitting the mandatory
+Wyrd Engine™ / Saga status; a Formally Organized Project omitting the mandatory
 attribution; basing the mandatory/voluntary determination on revenue, price,
 monetization, popularity, funding, or commercial success rather than organizational
 structure.
