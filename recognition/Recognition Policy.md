@@ -21,6 +21,12 @@ This is a unique recognition intended for the founder and current lead of the
 initiative. It is not a contribution rank and is not awarded through normal
 contributor progression.
 
+**Founder & Lead Maintainer is exclusive.** The holder of this recognition does not
+also hold Saga Fellow, Founding Contributor, Saga Maintainer, or Saga Contributor —
+Founder & Lead Maintainer stands on its own and already implies foundational and
+ongoing contribution at every tier. It is not stacked on top of the other four, and
+the other four are not granted to the Founder & Lead Maintainer in addition to it.
+
 ---
 
 ## 2. Saga Fellow
@@ -129,5 +135,31 @@ The badges do not form a simple promotion ladder.
 - **Saga Fellow** recognizes exceptional, sustained contribution and influence across
   The Saga.
 
-Recognition is granted by The Saga according to the applicable criteria above and
-recorded in the official [Registry](./Registry.md).
+## Self-Grants
+
+Recognition is granted by The Saga, which in practice means the person or people
+currently entrusted with that authority — at present, the Founder & Lead Maintainer
+alone. This creates an obvious risk when the person granting recognition and the
+person qualifying for it are the same individual, so the following applies:
+
+- **Founder & Lead Maintainer never stacks with any other badge** (see above) — this
+  removes the single largest incentive for self-grants outright.
+- Any recognition granted by an individual to themselves — including a future
+  Maintainer or Fellow approving their own upgrade — must be marked as
+  **self-granted** in the [Registry](./Registry.md), rather than recorded the same
+  way as a grant made by someone else.
+- Once The Saga has more than one person holding Saga Fellow or Saga Maintainer
+  status, a self-grant of Saga Fellow or Founding Contributor requires
+  countersignature from at least one other current Fellow or Maintainer, recorded in
+  the Registry alongside the grant. This does not yet apply while the Founder & Lead
+  Maintainer is the only recognized person in the project, since there is no one else
+  to countersign — but it takes effect automatically the moment a second person holds
+  either status.
+
+The goal is not to prevent a Founder from ever being recognized for real
+contribution — it's to keep the rarity of these badges meaningful by making
+self-grants visible rather than silent, and by removing any incentive to collect
+every badge on one person.
+
+Recognition is granted according to the applicable criteria above and recorded in
+the official [Registry](./Registry.md).
