@@ -1,6 +1,18 @@
-# The Saga Documentation
+<div align="center">
 
-Specifications and documentation for The Saga, a layered architecture for graph-structured, temporal data modeling and entity storage.
+<img src="assets/the-saga-cover.png" alt="The Saga" width="900">
+
+<br>
+
+Specifications and documentation for The Saga architecture, reference engine, and ecosystem.
+
+[![Status](https://img.shields.io/badge/status-active--development-2ea44f?style=flat-square)](#)
+[![Architecture](https://img.shields.io/badge/architecture-MIT-6a5acd?style=flat-square)](#tier-i--saga-architecture)
+[![Sorophy](https://img.shields.io/badge/sorophy%E2%84%A2-AGPL--3.0-6a5acd?style=flat-square)](#tier-ii--sorophy)
+[![Ecosystem](https://img.shields.io/badge/ecosystem-myriad-6a5acd?style=flat-square)](#tier-iii--the-myriad-ecosystem)
+[![Trademark](https://img.shields.io/badge/sorophy%E2%84%A2-trademark--protected-6a5acd?style=flat-square)](#trademark-and-naming-guidelines)
+
+</div>
 
 ---
 
@@ -16,6 +28,7 @@ Specifications and documentation for The Saga, a layered architecture for graph-
 - [Trademark and Naming Guidelines](#trademark-and-naming-guidelines)
 - [Attribution Policy](#attribution-policy)
 - [Contributor Recognition](#contributor-recognition)
+- [Repository Assets](#repository-assets)
 - [Legal Notice](#legal-notice)
 
 ---
@@ -85,15 +98,31 @@ Specifications are organized into two generations:
 
 The architecture specifications are released under the **MIT License**. Anyone may implement, modify, or reimplement them without dependency on the reference engine.
 
+---
+
 ### Tier II — Sorophy
+
+<div align="center">
+
+<img src="assets/sorophy-cover.png" alt="Sorophy™ — Temporal Graph Evolution Core" width="800">
+
+</div>
 
 **Sorophy™** is the official reference engine implementing the Saga Architecture. It provides the core runtime for entity validation, relationship tracking, graph operations, disk storage, and serialization.
 
-- **Current Status**: Active development / Beta.
-- **Current Version Codename**: `Krono` (Sorophy 2.x). Version codenames refer to release iterations, not forks or separate products.
+- **Status**: Active development / Beta.
+- **Current Version Codename**: `Krono` (Sorophy 2.x). Version codenames indicate release iterations of Sorophy, not separate products.
 - **License**: **GNU AGPL-3.0**.
 
+---
+
 ### Tier III — The Myriad Ecosystem
+
+<div align="center">
+
+<img src="assets/myriad-ecosystem-cover.png" alt="The Myriad Ecosystem" width="800">
+
+</div>
 
 The Myriad Ecosystem encompasses end-user applications, CLI tools, editor extensions, and domain-specific services built using Sorophy or compatible implementations.
 
@@ -128,6 +157,16 @@ Using MIT-licensed specifications does not impose AGPL terms on independent, cle
 
 ## Attribution Policy
 
+<div align="center">
+
+<img src="assets/powered-by-sorophy-cover.png" alt="Powered By Sorophy™" width="700">
+
+<br>
+
+[![Powered By Sorophy](https://img.shields.io/badge/Powered%20By-Sorophy%E2%84%A2-6a5acd?style=for-the-badge)](#attribution-policy)
+
+</div>
+
 Projects incorporating Sorophy™ are subject to attribution terms based on organization type:
 
 1. **Independent and Solo Developers**: Individual developers, hobbyists, and single-member legal entities are exempt from mandatory attribution requirements. Attribution is welcome but optional.
@@ -150,6 +189,19 @@ The project tracks contributor roles and maintainer assignments through a docume
 - Role definitions: [`recognition/README.md`](./recognition/README.md)
 
 Recognition designations acknowledge technical contributions and repository responsibilities; they do not convey equity, employment, or governance rights.
+
+---
+
+## Repository Assets
+
+| File | Description |
+|---|---|
+| `assets/the-saga-cover.png` | The Saga header cover |
+| `assets/sorophy-cover.png` | Sorophy™ header cover |
+| `assets/sorophy-logo.png` | Sorophy™ square mark (1:1) |
+| `assets/myriad-ecosystem-cover.png` | Myriad Ecosystem header cover |
+| `assets/myriad-ecosystem-logo.png` | Myriad Ecosystem square mark (1:1) |
+| `assets/powered-by-sorophy-cover.png` | Official attribution graphic |
 
 ---
 
